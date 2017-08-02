@@ -1,0 +1,28 @@
+{
+  "name": "pm2-logs-cr",
+  "version": "1.0.0",
+  "description": "Logging stream on the same line.",
+  "main": "index.js",
+  "bin": {
+      "pm2-logs-cr": "bin/index"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicodinh/pm2-logs-cr.git"
+  },
+  "keywords": [
+    "carrier return",
+    "progress bar",
+    "pm2",
+    "logs"
+  ],
+  "author": "Nicolas Azari (nicodinh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicodinh/pm2-logs-cr/issues"
+  },
+  "homepage": "https://github.com/nicodinh/pm2-logs-cr#readme"
+}
