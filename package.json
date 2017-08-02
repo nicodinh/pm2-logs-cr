@@ -1,7 +1,7 @@
 {
   "name": "pm2-logs-cr",
-  "version": "1.0.1",
-  "description": "Logging stream on the same line.",
+  "version": "1.0.2",
+  "description": "Logging a stream on the same line.",
   "main": "index.js",
   "bin": {
       "pm2-logs-cr": "bin/index"
