@@ -1,5 +1,5 @@
 # pm2-logs-cr
-Logging stream on the same line.
+Logging a stream on the same line.
 
 ## Installation
 ```bash
